@@ -4,12 +4,11 @@ import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Create from '../../Create';
-import Layout from '../../../components/layout';
 import { useState,useEffect } from 'react';
 
 
 
-import NoteCard from '../../../components/Notecard';
+import NoteCard from '../../../components/NoteCard';
 import { Grid } from '@mui/material';
 import { Card } from '@mui/material';
 
