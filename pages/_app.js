@@ -7,7 +7,7 @@ import { CacheProvider } from '@emotion/react';
 import theme from '../src/theme';
 import createEmotionCache from '../src/createEmotionCache';
 
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 
 import Router from 'next/router';
 import { useState } from 'react';
