@@ -5,7 +5,6 @@ import theme from '../src/theme';
 import createEmotionCache from '../src/createEmotionCache';
 
 import { ServerStyleSheets } from '@material-ui/core/styles';
-import Layout from '../components/layout';
 
 // import Router from 'next/router';
 // import { useState } from 'react';
