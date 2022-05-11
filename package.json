@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "[my-framework] build --output public",
+    "build": "next build",
+    "vercel-build": "node ./build.js",
     "start": "next start",
     "lint": "next lint"
   },
