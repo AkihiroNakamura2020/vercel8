@@ -17,7 +17,7 @@ import { doc, getFirestore } from "firebase/firestore"
 import { collection, getDocs,getDoc, query, where,onSnapshot,orderBy,serverTimestamp } from "firebase/firestore"
 import { title } from 'process';
 
-import NoteCard from '../../components/Notecard';
+import NoteCard from '../../components/NoteCard';
 
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
